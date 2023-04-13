@@ -35,7 +35,7 @@ const Header = () => {
             </div>
 
             <div className='sm:flex space-x-4 text-sm font-bold hidden'>
-                <Button style='w-20 text-neutral1 hover:text-neutral3' title="Login" />
+                <Link href="/" className='w-20  py-2 px-3 text-neutral2 hover:text-neutral4' >Login</Link>
                 <Button style='w-28 bg-primary1 hover:bg-primary1/70' title="Signup" />
             </div>
 

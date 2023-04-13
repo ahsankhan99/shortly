@@ -13,7 +13,7 @@ export default function Home() {
       <title>Shortly</title>
       <meta name="description" content="Shortly - url shortner" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="icon" href="/favicon.png" />
+      <link rel="icon" href="/favicon.ico" />
     </Head>
     <main>
       <Hero />
