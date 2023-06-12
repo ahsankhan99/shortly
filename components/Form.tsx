@@ -46,7 +46,7 @@ const Form = () => {
     }
 
     return (
-        <section className="mt-40 bg-neutral1 pb-2  px-5 sm:px-0">
+        <section className="mt-40 bg-neutral1 pb-2 px-5 sm:px-0">
             <div className='max-w-[1240px] mx-auto relative top-[-50px]' >
                 <div className='p-5 py-10 rounded-lg mx-auto bg-shorten-mobile sm:bg-shorten-desktop bg-cover
                                     bg-primary2 grid grid-cols-1 place-items-center'>
